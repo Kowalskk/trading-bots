@@ -1,4 +1,4 @@
-# 🚀 CZ_SNIPE BOT
+# 🚀 X_SNIPE BOT
 
 A high-performance trading bot designed to monitor **Twitter** accounts (like @cz_binance) and correlate tweets with new token launches on **Four.Meme** (Binance Smart Chain).
 
